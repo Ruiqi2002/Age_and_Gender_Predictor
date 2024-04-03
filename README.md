@@ -14,9 +14,8 @@
 5) discuss our experimental design
 
 
-<a id = "Table_of_content"></a>
 # Table of content
-### 1. [Import Library](#import_library)
+### 1. (#import_library)
 ### 2. [Data Proprocessing](#Data_Proprocessing)
 ### 3. [EigenFace Analyse](#Eigenface_Analyse)
 ### 4. [Predict apparent age and gender using face images](#Predict_apparent_age_and_gender_using_face_images)
