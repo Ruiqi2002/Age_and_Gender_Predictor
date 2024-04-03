@@ -1,3 +1,5 @@
+Contributed by: Ng Rui Qi[https://github.com/Ruiqi2002]
+
 # Predicting the apparent Age and Gender using face images
 
 # This project aims to implement:-
