@@ -1,4 +1,4 @@
-Contributed by: Ng Rui Qi[https://github.com/Ruiqi2002]
+Contributed by: [https://github.com/Ruiqi2002](#Ng Rui Qi)
 
 # Predicting the apparent Age and Gender using face images
 
