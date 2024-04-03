@@ -197,7 +197,7 @@ Both model will be using the whitten_reduced dataset for better efficiency
 <a id = "Comparison"></a></a><div style="text-align: right"> <a href=#Table_of_content>Back?</a> </div>
 # Comparison between Linear Regression, Linear Regression using SVD, ANN with MSE and ANN with ADAM
 
-</style>
+
 <table id="T_a2631">
   <thead>
     <tr>
