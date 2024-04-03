@@ -272,6 +272,6 @@ Because of linear regression without using SVD processed features had the lowest
 
 After fitting data into the model,we get a good results for our picture because there is no exaggerate results to us.Among the result there is only the picture 3 has special result maybe that mean picture 3 had some problem.As the result can show that,linear regression without using SVD is a good implementation
 
-# <a align= "center">~ THANK YOU ~</a>
-<h1 align="center">Material Bread</h1>
+**<a align= "center">~ THANK YOU ~</a>**
+
 
